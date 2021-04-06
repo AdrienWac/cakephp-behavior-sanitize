@@ -2,6 +2,7 @@
     "name": "adrien-wac/cakephp-behavior-sanitize",
     "description": "Behavior cakePHP 2 qui permet de nettoyer les données soumises par l'utilisateur et autres informations indésirables",
     "type": "cakephp-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "AdrienWac",
@@ -9,7 +10,7 @@
         }
     ],
     "require": {
-        "adrien-wac/plugin-installer": "*",
+        "adrien-wac/plugin-installer": "0.0.2",
         "php": ">=5.6"
     },
     "extra": {
