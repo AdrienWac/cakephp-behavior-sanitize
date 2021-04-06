@@ -1,0 +1,18 @@
+{
+    "name": "adrien-wac/cakephp-behavior-sanitize",
+    "description": "Behavior cakePHP 2 qui permet de nettoyer les données soumises par l'utilisateur et autres informations indésirables",
+    "type": "cakephp-plugin",
+    "authors": [
+        {
+            "name": "AdrienWac",
+            "email": "adrienlambert725@msn.com"
+        }
+    ],
+    "require": {
+        "adrien-wac/plugin-installer": "*",
+        "php": ">=5.6"
+    },
+    "extra": {
+        "class": "BehaviorSanitize"
+    }
+}
