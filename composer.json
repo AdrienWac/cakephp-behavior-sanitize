@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "adrien-wac/plugin-installer": "0.0.2",
+        "adrien-wac/plugin-installer": "0.0.4",
         "php": ">=5.6"
     },
     "extra": {
